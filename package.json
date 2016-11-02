@@ -1,0 +1,24 @@
+{
+  "name": "todo-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamsmith98/todoBackend.git"
+  },
+  "author": "Adam Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamsmith98/todoBackend/issues"
+  },
+  "homepage": "https://github.com/adamsmith98/todoBackend#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.5"
+  }
+}
