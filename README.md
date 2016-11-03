@@ -1,5 +1,8 @@
 # todoBackend
 
+## Main Issues
+1. Does not handle bad input well, will have to implement validation
+
 ## Dependencies
 1. Node.js
 2. MongoDB and /data/db directory
