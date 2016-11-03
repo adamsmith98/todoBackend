@@ -1,22 +1,22 @@
 # todoBackend
 
 ## Main Issues
-1. Does not handle bad input well, will have to implement validation
+Does not handle bad input well, will implement validation soon
 
 ## Dependencies
-1. Node.js
+1. Node.js (any recent version should work)
 2. MongoDB and /data/db directory
 
 ## Start server
-1. Start local MongoDB instance
+Start local MongoDB instance
 ```
 $ mongod
 ```
-2. In MongoDB shell, run
+In MongoDB shell, run
 ```
 > db todos
 ```
-3. Start local Node.js web server
+Start local Node.js web server
 ```
 $ npm start
 ```
